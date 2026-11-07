@@ -1,19 +1,40 @@
-<h1 align="center"><br>SeyedMasoud Hosseini</h1>
-<p align="center"><img src="gif/dev.gif" width="100"/></p>
-<p align="center"><a href="https://www.linkedin.com/in/seyedmasoud-hosseini/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" ></a></p>
+<div align="center">
+
+# Seyed Masoud Hosseini
+
+### Cryptography · Data Security · Data Science · Full-Stack Development
+
+<p>
+  <a href="https://www.linkedin.com/in/seyedmasoud-hosseini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://github.com/smasoudhosseini"><img src="https://img.shields.io/badge/GitHub-smasoudhosseini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+</p>
+
+</div>
 
 ---
-<h2 align="center"><br>About Me:</h2>
-    <h3 align="center">Cryptography Researcher</h3> 
-    <p align="center"><img src="gif/lock.gif" width="100"/></p>
-    <h3 align="center">Data Security Researcher</h3> 
-    <p align="center"><img src="gif/secu.gif" width="100"/></p>
-    <h3 align="center">Data Science Researcher</h3> 
-    <p align="center"><img src="gif/data.gif" width="100"/></p>
-    <h3 align="center">Full Stack developer</h3> 
-    <p align="center"><img src="gif/code.gif" width="100"/></p>
-    
+
+## About
+
+I work across cryptography, data security, data science, and full-stack development. My interests sit at the intersection of secure systems, data-focused research, and practical software engineering.
+
+## Areas of Focus
+
+| Research | Engineering |
+|:--|:--|
+| 🔐 Cryptography | 🌐 Full-stack development |
+| 🛡️ Data security | 📊 Data science |
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smasoudhosseini&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub statistics for smasoudhosseini" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smasoudhosseini&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages on GitHub" />
+
+</div>
+
 ---
 
-<h2 align="center"><br>smasoudhosseini's GitHub stats:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=smasoudhosseini&show_icons=true&title_color=fff&icon_color=ccccff&text_color=ccccff&bg_color=000080" width="500"/></p>
+<div align="center">
+  <i>Research-minded. Security-focused. Building useful software.</i>
+</div>
